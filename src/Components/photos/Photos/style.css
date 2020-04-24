@@ -1,0 +1,35 @@
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.drink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 330px; 
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.one {
+    background-image: url(../images/vodka/Belvedere.jpg);
+}
+.two {
+    background-image: url(../images/vodka/Ketel\ One.png);
+}
+.three {
+    background-image: url(../images/vodka/RADA\ Premium\ Classic.jpg);
+}
+.four {
+    background-image: url(../images/gin/Tanqueray\ \ Flor\ de\ Sevilla\ Gin.jpg);
+}
+.five {
+    background-image: url(../images/gin/Tanqueray\ №TEN.jpg);
+}
+.six {
+    background-image: url(../images/gin/The\ Botanist.jpg);
+}

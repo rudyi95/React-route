@@ -1,0 +1,25 @@
+body{
+    background: url(../main/image/alcohol-background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.main_container{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 3;
+}
+.info{
+    color: white;
+    z-index: 2;
+}
+.info h1{
+    margin-left: 42vw;
+}
+/* .main_container img{
+    width: 100%;
+    background-size: 100%;
+    z-index: 1;
+} */

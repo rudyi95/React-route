@@ -1,0 +1,17 @@
+
+.contact-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 13%;
+  width: 55%;
+  min-width: 276px;
+  overflow: hidden;
+  background: rgba(255,245,215,0.4);
+}
+.contact-container:not(:last-child) {
+  border-bottom: 1px solid #fff;
+}
+.contact-item{
+  font-size: 14px;
+}
