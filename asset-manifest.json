@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-route/static/css/main.f2505a11.chunk.css",
+    "main.js": "/React-route/static/js/main.9549096a.chunk.js",
+    "main.js.map": "/React-route/static/js/main.9549096a.chunk.js.map",
+    "runtime-main.js": "/React-route/static/js/runtime-main.34ecdcf4.js",
+    "runtime-main.js.map": "/React-route/static/js/runtime-main.34ecdcf4.js.map",
+    "static/js/2.99befb3d.chunk.js": "/React-route/static/js/2.99befb3d.chunk.js",
+    "static/js/2.99befb3d.chunk.js.map": "/React-route/static/js/2.99befb3d.chunk.js.map",
+    "index.html": "/React-route/index.html",
+    "precache-manifest.8b2edebbf0942233180040b86a3a1239.js": "/React-route/precache-manifest.8b2edebbf0942233180040b86a3a1239.js",
+    "service-worker.js": "/React-route/service-worker.js",
+    "static/css/main.f2505a11.chunk.css.map": "/React-route/static/css/main.f2505a11.chunk.css.map",
+    "static/js/2.99befb3d.chunk.js.LICENSE.txt": "/React-route/static/js/2.99befb3d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-route/static/media/alcohol-background.69e17f0b.jpg",
+    "static/media/Nazar.jpg": "/React-route/static/media/Nazar.9612dd4b.jpg",
+    "static/media/iphone.png": "/React-route/static/media/iphone.989c1e81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ecdcf4.js",
+    "static/js/2.99befb3d.chunk.js",
+    "static/css/main.f2505a11.chunk.css",
+    "static/js/main.9549096a.chunk.js"
+  ]
+}
